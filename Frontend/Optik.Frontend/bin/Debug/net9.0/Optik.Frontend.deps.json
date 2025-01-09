@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Optik.Frontend/1.0.0": {
+        "runtime": {
+          "Optik.Frontend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Optik.Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

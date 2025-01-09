@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmetguvendik/Desktop/Project/Optik/Infrastructure/Optik.Persistance/Optik.Persistance.csproj": {}
+    "/Users/ahmetguvendik/Desktop/Project/OptikProject/Infrastructure/Optik.Persistance/Optik.Persistance.csproj": {}
   },
   "projects": {
-    "/Users/ahmetguvendik/Desktop/Project/Optik/Infrastructure/Optik.Persistance/Optik.Persistance.csproj": {
+    "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/Optik.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmetguvendik/Desktop/Project/Optik/Infrastructure/Optik.Persistance/Optik.Persistance.csproj",
-        "projectName": "Optik.Persistance",
-        "projectPath": "/Users/ahmetguvendik/Desktop/Project/Optik/Infrastructure/Optik.Persistance/Optik.Persistance.csproj",
+        "projectUniqueName": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/Optik.Application.csproj",
+        "projectName": "Optik.Application",
+        "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/Optik.Application.csproj",
         "packagesPath": "/Users/ahmetguvendik/.nuget/packages/",
-        "outputPath": "/Users/ahmetguvendik/Desktop/Project/Optik/Infrastructure/Optik.Persistance/obj/",
+        "outputPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmetguvendik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -36,12 +36,13 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,166 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/ahmetguvendik/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj",
+        "projectName": "Optik.Domain",
+        "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj",
+        "packagesPath": "/Users/ahmetguvendik/.nuget/packages/",
+        "outputPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmetguvendik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmetguvendik/Desktop/Project/OptikProject/Infrastructure/Optik.Persistance/Optik.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Infrastructure/Optik.Persistance/Optik.Persistance.csproj",
+        "projectName": "Optik.Persistance",
+        "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Infrastructure/Optik.Persistance/Optik.Persistance.csproj",
+        "packagesPath": "/Users/ahmetguvendik/.nuget/packages/",
+        "outputPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Infrastructure/Optik.Persistance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmetguvendik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/Optik.Application.csproj": {
+                "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/Optik.Application.csproj"
+              },
+              "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj": {
+                "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

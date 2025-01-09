@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmetguvendik/Desktop/Project/Optik/Core/Optik.Domain/Optik.Domain.csproj": {}
+    "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj": {}
   },
   "projects": {
-    "/Users/ahmetguvendik/Desktop/Project/Optik/Core/Optik.Domain/Optik.Domain.csproj": {
+    "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmetguvendik/Desktop/Project/Optik/Core/Optik.Domain/Optik.Domain.csproj",
+        "projectUniqueName": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj",
         "projectName": "Optik.Domain",
-        "projectPath": "/Users/ahmetguvendik/Desktop/Project/Optik/Core/Optik.Domain/Optik.Domain.csproj",
+        "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj",
         "packagesPath": "/Users/ahmetguvendik/.nuget/packages/",
-        "outputPath": "/Users/ahmetguvendik/Desktop/Project/Optik/Core/Optik.Domain/obj/",
+        "outputPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmetguvendik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -36,12 +36,13 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/ahmetguvendik/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

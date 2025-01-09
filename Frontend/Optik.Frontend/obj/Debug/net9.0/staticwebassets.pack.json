@@ -1,0 +1,793 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/obj/Debug/net9.0/scopedcss/projectbundle/Optik.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets/Optik.Frontend.oq1l454kwk.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/about.html",
+      "PackagePath": "staticwebassets/html/about.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/contact.html",
+      "PackagePath": "staticwebassets/html/contact.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/animate.min.css",
+      "PackagePath": "staticwebassets/html/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/html/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/html/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/html/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/html/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/html/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/html/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/html/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/html/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap.css",
+      "PackagePath": "staticwebassets/html/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/html/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/html/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/html/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/cochin.css",
+      "PackagePath": "staticwebassets/html/css/cochin.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/default-skin.css",
+      "PackagePath": "staticwebassets/html/css/default-skin.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/html/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/icomoon.css",
+      "PackagePath": "staticwebassets/html/css/icomoon.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/jquery-ui.css",
+      "PackagePath": "staticwebassets/html/css/jquery-ui.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets/html/css/jquery.fancybox.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets/html/css/jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/meanmenu.css",
+      "PackagePath": "staticwebassets/html/css/meanmenu.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/nice-select.css",
+      "PackagePath": "staticwebassets/html/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/normalize.css",
+      "PackagePath": "staticwebassets/html/css/normalize.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/html/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/responsive.css",
+      "PackagePath": "staticwebassets/html/css/responsive.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/slick.css",
+      "PackagePath": "staticwebassets/html/css/slick.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/css/style.css",
+      "PackagePath": "staticwebassets/html/css/style.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/html/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets/html/fonts/IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Black.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Black.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Bold.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Italic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Light.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Light.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Medium.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Regular.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-Thin.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/cochin.woff",
+      "PackagePath": "staticwebassets/html/fonts/cochin.woff"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/cochin.woff2",
+      "PackagePath": "staticwebassets/html/fonts/cochin.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/cochinbold_italic.ttf",
+      "PackagePath": "staticwebassets/html/fonts/cochinbold_italic.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/cochinbold_italic.woff",
+      "PackagePath": "staticwebassets/html/fonts/cochinbold_italic.woff"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/cochinbold_italic.woff2",
+      "PackagePath": "staticwebassets/html/fonts/cochinbold_italic.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/html/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/html/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/html/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/html/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/html/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/glasses.html",
+      "PackagePath": "staticwebassets/html/glasses.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/about_img.png",
+      "PackagePath": "staticwebassets/html/images/about_img.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/about_right_cross.jpg",
+      "PackagePath": "staticwebassets/html/images/about_right_cross.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/banner_img.png",
+      "PackagePath": "staticwebassets/html/images/banner_img.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass1.png",
+      "PackagePath": "staticwebassets/html/images/glass1.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass2.png",
+      "PackagePath": "staticwebassets/html/images/glass2.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass3.png",
+      "PackagePath": "staticwebassets/html/images/glass3.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass4.png",
+      "PackagePath": "staticwebassets/html/images/glass4.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass5.png",
+      "PackagePath": "staticwebassets/html/images/glass5.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass6.png",
+      "PackagePath": "staticwebassets/html/images/glass6.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass7.png",
+      "PackagePath": "staticwebassets/html/images/glass7.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/glass8.png",
+      "PackagePath": "staticwebassets/html/images/glass8.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/loading.gif",
+      "PackagePath": "staticwebassets/html/images/loading.gif"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/logo.png",
+      "PackagePath": "staticwebassets/html/images/logo.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/logo1.png",
+      "PackagePath": "staticwebassets/html/images/logo1.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/menu_icon.png",
+      "PackagePath": "staticwebassets/html/images/menu_icon.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/our.png",
+      "PackagePath": "staticwebassets/html/images/our.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/images/shop_img.png",
+      "PackagePath": "staticwebassets/html/images/shop_img.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/index.html",
+      "PackagePath": "staticwebassets/html/index.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/html/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/html/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/html/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/html/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.js",
+      "PackagePath": "staticwebassets/html/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/html/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/html/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/html/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/custom.js",
+      "PackagePath": "staticwebassets/html/js/custom.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets/html/js/jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets/html/js/jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/jquery.min.js",
+      "PackagePath": "staticwebassets/html/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/jquery.validate.js",
+      "PackagePath": "staticwebassets/html/js/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/modernizer.js",
+      "PackagePath": "staticwebassets/html/js/modernizer.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/plugin.js",
+      "PackagePath": "staticwebassets/html/js/plugin.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/popper.min.js",
+      "PackagePath": "staticwebassets/html/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/assets/coloredbg.png",
+      "PackagePath": "staticwebassets/html/js/revolution/assets/coloredbg.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/assets/gridtile.png",
+      "PackagePath": "staticwebassets/html/js/revolution/assets/gridtile.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/assets/gridtile_3x3.png",
+      "PackagePath": "staticwebassets/html/js/revolution/assets/gridtile_3x3.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/assets/gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets/html/js/revolution/assets/gridtile_3x3_white.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/assets/gridtile_white.png",
+      "PackagePath": "staticwebassets/html/js/revolution/assets/gridtile_white.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/assets/loader.gif",
+      "PackagePath": "staticwebassets/html/js/revolution/assets/loader.gif"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/css/closedhand.html",
+      "PackagePath": "staticwebassets/html/js/revolution/css/closedhand.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/css/layers.css",
+      "PackagePath": "staticwebassets/html/js/revolution/css/layers.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/css/navigation.css",
+      "PackagePath": "staticwebassets/html/js/revolution/css/navigation.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/css/openhand.html",
+      "PackagePath": "staticwebassets/html/js/revolution/css/openhand.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/css/settings.css",
+      "PackagePath": "staticwebassets/html/js/revolution/css/settings.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/revicons/revicons90c6.eot",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/revicons/revicons90c6.eot"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/revicons/revicons90c6.svg",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/revicons/revicons90c6.svg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/revicons/revicons90c6.ttf",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/revicons/revicons90c6.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/fonts/revicons/revicons90c6.woff",
+      "PackagePath": "staticwebassets/html/js/revolution/fonts/revicons/revicons90c6.woff"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/extensions/revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/extensions/revolution.extension.video.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/revolution/js/jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets/html/js/revolution/js/jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/js/slider-setting.js",
+      "PackagePath": "staticwebassets/html/js/slider-setting.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/html/shop.html",
+      "PackagePath": "staticwebassets/html/shop.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Optik.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Optik.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Optik.Frontend.props",
+      "PackagePath": "build\\Optik.Frontend.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Optik.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\Optik.Frontend.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Optik.Frontend.props",
+      "PackagePath": "buildTransitive\\Optik.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

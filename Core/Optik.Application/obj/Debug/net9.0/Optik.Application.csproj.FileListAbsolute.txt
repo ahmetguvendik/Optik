@@ -1,0 +1,11 @@
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/bin/Debug/net9.0/Optik.Application.deps.json
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/bin/Debug/net9.0/Optik.Application.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/bin/Debug/net9.0/Optik.Application.pdb
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/refint/Optik.Application.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.pdb
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/ref/Optik.Application.dll
