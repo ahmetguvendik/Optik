@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GSQJt37jICQ=",
+  "dgSpecHash": "/7toki9r02A=",
   "success": true,
   "projectFilePath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/Optik.Presentation.csproj",
   "expectedPackageFiles": [
+    "/Users/ahmetguvendik/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/ahmetguvendik/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "/Users/ahmetguvendik/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "/Users/ahmetguvendik/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0/microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

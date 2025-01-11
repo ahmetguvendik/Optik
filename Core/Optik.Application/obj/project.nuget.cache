@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ye8JuVPOqCg=",
+  "dgSpecHash": "y43WLgzZFjg=",
   "success": true,
   "projectFilePath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/Optik.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ahmetguvendik/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,3 +9,4 @@
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/refint/Optik.Application.dll
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.pdb
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/ref/Optik.Application.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.csproj.AssemblyReference.cache
