@@ -7,12 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Features\CQRS\Handlers\AboutHandlers\Read\" />
-      <Folder Include="Features\CQRS\Handlers\AboutHandlers\Write\" />
+      <PackageReference Include="MediatR" Version="12.4.1" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="MediatR" Version="12.4.1" />
+      <ProjectReference Include="..\Optik.Domain\Optik.Domain.csproj" />
     </ItemGroup>
 
 </Project>

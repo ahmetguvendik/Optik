@@ -10,3 +10,6 @@
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.pdb
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/ref/Optik.Application.dll
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Application.csproj.AssemblyReference.cache
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/bin/Debug/net9.0/Optik.Domain.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/bin/Debug/net9.0/Optik.Domain.pdb
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Application/obj/Debug/net9.0/Optik.Ap.18C84CB1.Up2Date
