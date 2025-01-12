@@ -1,3 +1,4 @@
+using Optik.Application;
 using Optik.Persistance;
 
 
@@ -9,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddPersistanceService();
+builder.Services.AddApplicationService(builder.Configuration);
+
 
 
 var app = builder.Build();

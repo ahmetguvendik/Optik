@@ -25,7 +25,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj": {
+                "projectPath": "/Users/ahmetguvendik/Desktop/Project/OptikProject/Core/Optik.Domain/Optik.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -47,6 +51,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

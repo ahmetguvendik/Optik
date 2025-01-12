@@ -6,6 +6,8 @@
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/Optik.Presentation.runtimeconfig.json
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/Optik.Presentation.dll
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/Optik.Presentation.pdb
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/MediatR.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/MediatR.Contracts.dll
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -45,5 +47,3 @@
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/obj/Debug/net9.0/Optik.Presentation.pdb
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/obj/Debug/net9.0/Optik.Presentation.genruntimeconfig.cache
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/obj/Debug/net9.0/ref/Optik.Presentation.dll
-/Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/MediatR.dll
-/Users/ahmetguvendik/Desktop/Project/OptikProject/Presentation/Optik.Presentation/bin/Debug/net9.0/MediatR.Contracts.dll
