@@ -1,12 +1,19 @@
+
+@model List<Optik.DTO.FooterDTOs.ResultFooterDto>
+
 <footer>
     <div class="footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 offset-md">
                     <ul class="location_icon">
-                        <li><a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x14c0797c51f23903:0x1119cb332ce65606?sa=X&ved=1t:8290&ictx=111"><i class="fa fa-map-marker" aria-hidden="true"></i></a><br>Beşköprü, 116. Sk. No:16, 48600 Ortaca/Muğla</li>
-                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> +90 0535 475 18 68</li>
-                        <li><a href="https://www.instagram.com/akatayoptikortaca_/"><i class="fa fa-instagram" aria-hidden="true"></i></a><br> Akatay Optik</li>
+                        @foreach (var item in Model)
+                        {
+                            <li><a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x14c0797c51f23903:0x1119cb332ce65606?sa=X&ved=1t:8290&ictx=111"><i class="fa fa-map-marker" aria-hidden="true"></i></a><br>@item.Adress</li>
+                            <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> @item.PhoneNumber</li> 
+                            <li><a href="@item.InstagramURL"><i class="fa fa-instagram" aria-hidden="true"></i></a><br> @item.Email</li>
+                        }
+                        
                     </ul>
                 </div>
             </div>

@@ -165,3 +165,8 @@
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/obj/Debug/net9.0/compressed/m1dp695ugn-8nxq5fny9k.gz
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/obj/Debug/net9.0/compressed/r2qh3yrfhh-bni9gn8msw.gz
 /Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/obj/Debug/net9.0/compressed/badrggq9t4-yi2fjmdgup.gz
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/bin/Debug/net9.0/Optik.DTO.dll
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/bin/Debug/net9.0/Optik.DTO.pdb
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/obj/Debug/net9.0/Optik.Frontend.csproj.AssemblyReference.cache
+/Users/ahmetguvendik/Desktop/Project/OptikProject/Frontend/Optik.Frontend/obj/Debug/net9.0/Optik.Fr.DAB82AF6.Up2Date

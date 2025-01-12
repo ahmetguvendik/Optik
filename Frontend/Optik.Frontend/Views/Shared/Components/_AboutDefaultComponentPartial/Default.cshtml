@@ -1,18 +1,24 @@
+@model List<Optik.DTO.AboutDTOs.ResultAboutDto>
+
 <div class="about">
     <div class="container">
         <div class="row d_flex">
-            <div class="col-md-5">
-                <div class="about_img">
-                    <figure><img src="~/html/images/about_img.png" alt="#"/></figure>
+            @foreach (var item in Model)
+            {
+                <div class="col-md-5">
+                    <div class="about_img">
+                        <figure><img src="@item.ImageURL" alt="#"/></figure>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-7">
-                <div class="titlepage">
-                    <h2>Hakkımızda</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                <div class="col-md-7">
+                    <div class="titlepage">
+                        <h2>@item.Title</h2>
+                        <p>@item.Description</p>
+                    </div>
+                    <a class="read_more" href="#">Devamı İçin</a>
                 </div>
-                <a class="read_more" href="#">Devamı İçin</a>
-            </div>
+            }
+           
         </div>
     </div>
 </div>

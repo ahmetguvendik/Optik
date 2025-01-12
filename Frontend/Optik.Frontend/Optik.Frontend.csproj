@@ -10,4 +10,12 @@
       <_ContentIncludedByDefault Remove="Views\Shared\Components\UILayoutComponents\_FooterUILayoutComponentPartial\Default.cshtml" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Optik.DTO\Optik.DTO.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
 </Project>
