@@ -18,4 +18,5 @@ public class Glasses : BaseEntity
     public string GlassID { get; set; }
     public Frame Frame { get; set; }
     public string FrameID { get; set; }
+    public string ImageURL { get; set; }
 }

@@ -15,6 +15,7 @@ public class OptikDbContext : DbContext
     public DbSet<Glasses> Glasses { get; set; }
     public DbSet<Glass> Glass { get; set; }
     public DbSet<Testimonial> Testimonials { get; set; }    
-    public DbSet<Banner> Banners { get; set; }      
+    public DbSet<Banner> Banners { get; set; }
+    public DbSet<Shop> Shops { get; set; }  
         
 }

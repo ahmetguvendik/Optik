@@ -189,6 +189,10 @@ namespace Optik.Persistance.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<string>("ImageURL")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<int>("KopruLenght")
                         .HasColumnType("integer");
 
@@ -218,6 +222,28 @@ namespace Optik.Persistance.Migrations
                     b.HasIndex("GlassID");
 
                     b.ToTable("Glasses");
+                });
+
+            modelBuilder.Entity("Optik.Domain.Entities.Shop", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("ImageURL")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Shops");
                 });
 
             modelBuilder.Entity("Optik.Domain.Entities.Testimonial", b =>
